@@ -1,0 +1,3 @@
+Per valutare il comportamento dell'implementazione proposta si realizzi, utilizzando DataCounter<E>, una
+applicazione che determina la frequenza delle parole in un documento di testo, partendo da quelle più
+frequenti e utilizzando l'ordine alfabetico in caso di parole con la medesima frequenza.
